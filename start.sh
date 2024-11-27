@@ -1,5 +1,5 @@
 #!/bin/bash
-python -m venv myenv
+python -m venv venv
 
 source ./myenv/bin/activate
 pip install jupyterlab
